@@ -1,2 +1,29 @@
-.analysis_cache/*
-__pycache__/*
+# Analysis cache
+.analysis_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Analysis results
+study_analysis_*.json
+study_report_*.txt
+*_analysis_*.json
+*_report_*.txt
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
