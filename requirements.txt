@@ -1,0 +1,7 @@
+berserk>=0.10.0
+python-chess
+stockfish>=3.28.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
